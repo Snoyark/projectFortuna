@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fortuna/static/css/main.498d002a.chunk.css",
+    "main.js": "/fortuna/static/js/main.1133a3c8.chunk.js",
+    "main.js.map": "/fortuna/static/js/main.1133a3c8.chunk.js.map",
+    "runtime-main.js": "/fortuna/static/js/runtime-main.bd955684.js",
+    "runtime-main.js.map": "/fortuna/static/js/runtime-main.bd955684.js.map",
+    "static/js/2.eeb6d0ef.chunk.js": "/fortuna/static/js/2.eeb6d0ef.chunk.js",
+    "static/js/2.eeb6d0ef.chunk.js.map": "/fortuna/static/js/2.eeb6d0ef.chunk.js.map",
+    "index.html": "/fortuna/index.html",
+    "precache-manifest.a9f348eb8958918c47a225056b2a65ab.js": "/fortuna/precache-manifest.a9f348eb8958918c47a225056b2a65ab.js",
+    "service-worker.js": "/fortuna/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/fortuna/static/css/main.498d002a.chunk.css.map"
+  }
+}
