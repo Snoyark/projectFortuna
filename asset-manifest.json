@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/projectFortuna/static/css/main.498d002a.chunk.css",
-    "main.js": "/projectFortuna/static/js/main.68ca386f.chunk.js",
-    "main.js.map": "/projectFortuna/static/js/main.68ca386f.chunk.js.map",
+    "main.js": "/projectFortuna/static/js/main.4bcfed36.chunk.js",
+    "main.js.map": "/projectFortuna/static/js/main.4bcfed36.chunk.js.map",
     "runtime-main.js": "/projectFortuna/static/js/runtime-main.c8ada76b.js",
     "runtime-main.js.map": "/projectFortuna/static/js/runtime-main.c8ada76b.js.map",
     "static/js/2.aa4e853f.chunk.js": "/projectFortuna/static/js/2.aa4e853f.chunk.js",
     "static/js/2.aa4e853f.chunk.js.map": "/projectFortuna/static/js/2.aa4e853f.chunk.js.map",
     "index.html": "/projectFortuna/index.html",
-    "precache-manifest.98ddec6ac75c406a3a9324f7e384511d.js": "/projectFortuna/precache-manifest.98ddec6ac75c406a3a9324f7e384511d.js",
+    "precache-manifest.5746325ecfb9a55634808c8c93870c02.js": "/projectFortuna/precache-manifest.5746325ecfb9a55634808c8c93870c02.js",
     "service-worker.js": "/projectFortuna/service-worker.js",
     "static/css/main.498d002a.chunk.css.map": "/projectFortuna/static/css/main.498d002a.chunk.css.map"
   }
