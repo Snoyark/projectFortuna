@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/projectFortuna/precache-manifest.3f2902fadba28edee4739ea00e484741.js"
+  "/projectFortuna/precache-manifest.52493f50807528fadb90c20c7bf3b593.js"
 );
 
 self.addEventListener('message', (event) => {
