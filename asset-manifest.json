@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/projectFortuna/static/css/main.498d002a.chunk.css",
-    "main.js": "/projectFortuna/static/js/main.42c78cd7.chunk.js",
-    "main.js.map": "/projectFortuna/static/js/main.42c78cd7.chunk.js.map",
+    "main.js": "/projectFortuna/static/js/main.68ca386f.chunk.js",
+    "main.js.map": "/projectFortuna/static/js/main.68ca386f.chunk.js.map",
     "runtime-main.js": "/projectFortuna/static/js/runtime-main.c8ada76b.js",
     "runtime-main.js.map": "/projectFortuna/static/js/runtime-main.c8ada76b.js.map",
-    "static/js/2.a8bd48eb.chunk.js": "/projectFortuna/static/js/2.a8bd48eb.chunk.js",
-    "static/js/2.a8bd48eb.chunk.js.map": "/projectFortuna/static/js/2.a8bd48eb.chunk.js.map",
+    "static/js/2.aa4e853f.chunk.js": "/projectFortuna/static/js/2.aa4e853f.chunk.js",
+    "static/js/2.aa4e853f.chunk.js.map": "/projectFortuna/static/js/2.aa4e853f.chunk.js.map",
     "index.html": "/projectFortuna/index.html",
-    "precache-manifest.feedba8925cbad076e455dc3632cb51c.js": "/projectFortuna/precache-manifest.feedba8925cbad076e455dc3632cb51c.js",
+    "precache-manifest.98ddec6ac75c406a3a9324f7e384511d.js": "/projectFortuna/precache-manifest.98ddec6ac75c406a3a9324f7e384511d.js",
     "service-worker.js": "/projectFortuna/service-worker.js",
     "static/css/main.498d002a.chunk.css.map": "/projectFortuna/static/css/main.498d002a.chunk.css.map"
   }
