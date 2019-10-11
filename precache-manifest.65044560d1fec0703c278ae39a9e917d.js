@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73778e8983c6b6bb3040a9f58d3fc83c",
+    "revision": "1f52b95d23a59539c591eab890f08315",
     "url": "/projectFortuna/index.html"
   },
   {
-    "revision": "bc6be8ba740748fbcfc1",
+    "revision": "0943eb559a89833d0751",
     "url": "/projectFortuna/static/css/main.498d002a.chunk.css"
   },
   {
-    "revision": "136aa3b2f36628db5b55",
-    "url": "/projectFortuna/static/js/2.a8bd48eb.chunk.js"
+    "revision": "b447d8ad09786ba719ba",
+    "url": "/projectFortuna/static/js/2.0b0a5d52.chunk.js"
   },
   {
-    "revision": "bc6be8ba740748fbcfc1",
-    "url": "/projectFortuna/static/js/main.21d37e97.chunk.js"
+    "revision": "0943eb559a89833d0751",
+    "url": "/projectFortuna/static/js/main.bad909b1.chunk.js"
   },
   {
     "revision": "d930e3e95acaf1d51c84",
