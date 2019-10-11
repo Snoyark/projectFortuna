@@ -23,7 +23,7 @@ const DiceHomePage = () => (
     </DiceContainer>
 )
 
-function HomePage() {
+function Renderer() {
     return (
         <Router>
             <div>
@@ -32,12 +32,6 @@ function HomePage() {
                     <hr />
                     <Link to="/slogan">Link to Slogan</Link>
                 </div>
-                {/* <Route path="/slogan">
-                    <Slogan />
-                </Route>
-                <Route to="/">
-                    {DiceHomePage}
-                </Route> */}
                 <Switch>
                     <Route path="/slogan">
                         <Slogan />
@@ -55,4 +49,4 @@ function Slogan() {
     return <h2>May the gods be ever in your favor.</h2>
 }
 
-export default HomePage;
+export default Renderer;
